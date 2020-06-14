@@ -1,0 +1,6 @@
+functiondonothing() {}
+function sayHello(){console.log('hello!')}
+function sayHelloToIsabel{console.log("Hello,Isabel!")}
+sayHelloToIsabel()
+
+
